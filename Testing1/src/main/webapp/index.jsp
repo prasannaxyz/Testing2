@@ -8,7 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>(Hai.....*)Hello World:Srinergi)!........</h1>
-        <h2>Prasannanjaneyulu Kandimalla</h2>
+        <h5>Prasannanjaneyulu Kandimalla</h5>
     </body>
 </html>
