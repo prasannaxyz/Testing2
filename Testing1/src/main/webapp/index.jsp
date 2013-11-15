@@ -9,6 +9,5 @@
     </head>
     <body>
         <h1>(Hai.....*)Hello World:Srinergi)!........</h1>
-        <h2>Prasannanjaneyulu Kandimalla</h2>
     </body>
 </html>
